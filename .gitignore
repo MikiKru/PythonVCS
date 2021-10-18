@@ -1,0 +1,3 @@
+# comment -> files ora dirs ommited in tracking
+venv/
+.idea/
